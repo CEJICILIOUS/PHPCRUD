@@ -1,0 +1,20 @@
+body{
+  background-color: white;
+}
+
+
+.btn.btn-outline-warning{
+  background-color:#0367fc;
+}
+
+.container{
+background: #fcba03;
+margin-bottom: 30px;
+padding: 20px;
+margin-top: 20px;
+border-radius: 15px;
+}
+
+.info-table.container{
+border-radius: 15px;
+}
